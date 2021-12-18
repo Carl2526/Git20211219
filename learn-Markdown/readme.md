@@ -14,3 +14,15 @@ This is a [hyperlink](https://github.com).
 
 代码块：`git add .`
 
+大块代码：
+```python
+from datetime import datetime
+print('Hi, Carl.')
+```
+
+```powershell
+$env:Path
+```
+
+## 插入图片方法：
+<img src="https://oss-product-img.artfoxlive.com/profile-prod/201706/1496317765058_673117_origin.jpg?x-oss-process=style/l_watermark"/>
