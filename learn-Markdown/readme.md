@@ -26,3 +26,5 @@ $env:Path
 
 ## 插入图片方法：
 <img src="https://oss-product-img.artfoxlive.com/profile-prod/201706/1496317765058_673117_origin.jpg?x-oss-process=style/l_watermark"/>
+
+<img src="/Users/yuhaocao/Desktop/project/背景.png"/>
